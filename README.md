@@ -3,7 +3,7 @@
 
 | Machine Learning Scientist with Python Modules          	| Start 	| End 	| Notes 	|
 |---------------------------------------------------------	|-------	|-----	|-------	|
-| Supervised Learning with scikit-learn                   	| 12/14 	|     	|       	|
+| Supervised Learning with scikit-learn                   	| 12/14 	|     	| lectures seem to follow this [book](https://github.com/amueller/introduction_to_ml_with_python) closely, which I have      	|
 | Unsupervised Learning in Python                         	|       	|     	|       	|
 | Linear Classifiers in Python                            	|       	|     	|       	|
 | Machine Learning with Tree-Based Models   in Python     	|       	|     	|       	|
