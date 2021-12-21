@@ -1,3 +1,5 @@
+# https://rosalind.info/problems/deg/
+
 import pandas as pd
 from igraph import *
 
