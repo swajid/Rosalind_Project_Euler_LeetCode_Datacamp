@@ -26,3 +26,4 @@
 | Introduction to PySpark                                 	|       	|     	|       	|
 | Machine Learning with PySpark                           	|       	|     	|       	|
 | Winning a Kaggle Competition in Python                  	|       	|     	|       	|
+| [Applying Hugging Face Machine Learning Pipelines in Python](https://www.educative.io/courses/hugging-face-machine-learning-pipelines-python) | 1/3      	|     	|       	|
