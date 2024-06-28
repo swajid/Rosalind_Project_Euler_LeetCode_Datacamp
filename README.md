@@ -1,6 +1,6 @@
 # Selected_Eng-and-BioinfAlg-CS_Rosalind_Problems
 <!-- For anyone who has to approve my pre-reqs, anywhere, see http://rosalind.info -->
-
+<details>
 | Machine Learning Scientist with Python Modules          	| Start 	| End 	| Notes 	|
 |---------------------------------------------------------	|-------	|-----	|-------	|
 | Supervised Learning with scikit-learn                   	| 12/14 	|     	| lectures seem to follow this [book](https://github.com/amueller/introduction_to_ml_with_python) closely, which I have      	|
@@ -27,3 +27,6 @@
 | Machine Learning with PySpark                           	|       	|     	|       	|
 | Winning a Kaggle Competition in Python                  	|       	|     	|       	|
 | [Applying Hugging Face Machine Learning Pipelines in Python](https://www.educative.io/courses/hugging-face-machine-learning-pipelines-python) | 1/3      	|     	|       	|
+</details>
+
+* Working through Rosalind.info -> "Bioinformatics Stronghold" problems https://rosalind.info/problems/list-view/
