@@ -1,4 +1,5 @@
-# Selected_Eng-and-BioinfAlg-CS_Rosalind_Problems
+# Solutions to Rosalind.info, LeetCode and Datacamp
+
 <!-- For anyone who has to approve my pre-reqs, anywhere, see http://rosalind.info -->
 <details>
 | Machine Learning Scientist with Python Modules          	| Start 	| End 	| Notes 	|
@@ -29,12 +30,12 @@
 | [Applying Hugging Face Machine Learning Pipelines in Python](https://www.educative.io/courses/hugging-face-machine-learning-pipelines-python) | 1/3      	|     	|       	|
 </details>
 
-
-├──**Rosalind** - Solutions to problems folder
-|	├── **Readme.md** - Documentation about the solution
-│	├── **.py** files - Python files
-│	└── **Data** files - Input and output files
-
+```
+├──Rosalind Problem ID Folder - Solutions to problems folder
+|	├── Readme.md - Documentation about the solution
+│	├── *.py files - Python files
+│	└── Data files - Input and output files
+```
 
 
 | ID   | Title                                                                                               | Solved By                                            |
