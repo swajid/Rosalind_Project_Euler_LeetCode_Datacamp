@@ -38,19 +38,19 @@
 ```
 
 
-| ID   | Title                                                                                               | Solved By                                            |
+| ID + Link to code   | Title                                                                                               | Solved By                                            |
 | ---- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ~DNA~  | [Counting DNA Nucleotides](https://rosalind.info/problems/dna/)                                     | [66648](https://rosalind.info/problems/dna/recent/)  |
 | ~RNA~  | [Transcribing DNA into RNA](https://rosalind.info/problems/rna/)                                    | [59494](https://rosalind.info/problems/rna/recent/)  |
 | ~REVC~ | [Complementing a Strand of DNA](https://rosalind.info/problems/revc/)                               | [53999](https://rosalind.info/problems/revc/recent/) |
 | ~HAMM~ | [Counting Point Mutations](https://rosalind.info/problems/hamm/)                                    | [34764](https://rosalind.info/problems/hamm/recent/) |
-| ~PROT~ | [Translating RNA into Protein](https://rosalind.info/problems/prot/)                                | [27395](https://rosalind.info/problems/prot/recent/) |
+| [~PROT~](Rosalind/PROT) | [Translating RNA into Protein](https://rosalind.info/problems/prot/)                                | [27395](https://rosalind.info/problems/prot/recent/) |
 | ~PERM~ | [Enumerating Gene Orders](https://rosalind.info/problems/perm/)                                     | [13034](https://rosalind.info/problems/perm/recent/) |
-| ~PRTM~ | [Calculating Protein Mass](https://rosalind.info/problems/prtm/)                                    | [12885](https://rosalind.info/problems/prtm/recent/) |
+| [~PRTM~](Rosalind/PRTM) | [Calculating Protein Mass](https://rosalind.info/problems/prtm/)                                    | [12885](https://rosalind.info/problems/prtm/recent/) |
 | FIB  | [Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)                             | [31498](https://rosalind.info/problems/fib/recent/)  |
 | GC   | [Computing GC Content](https://rosalind.info/problems/gc/)                                          | [30950](https://rosalind.info/problems/gc/recent/)   |
-| IPRB | [Mendel's First Law](https://rosalind.info/problems/iprb/)                                          | [20588](https://rosalind.info/problems/iprb/recent/) |
-| ~SUBS~ | [Finding a Motif in DNA](https://rosalind.info/problems/subs/)                                      | [27507](https://rosalind.info/problems/subs/recent/) |
+| [~IPRB~](Rosalind/IPRB) | [Mendel's First Law](https://rosalind.info/problems/iprb/)                                          | [20588](https://rosalind.info/problems/iprb/recent/) |
+| [~SUBS~](Rosalind/SUBS) | [Finding a Motif in DNA](https://rosalind.info/problems/subs/)                                      | [27507](https://rosalind.info/problems/subs/recent/) |
 | MRNA | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)                                 | [9950](https://rosalind.info/problems/mrna/recent/)  |
 | LEXF | [Enumerating k-mers Lexicographically](https://rosalind.info/problems/lexf/)                        | [7262](https://rosalind.info/problems/lexf/recent/)  |
 | SIGN | [Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)                         | [4650](https://rosalind.info/problems/sign/recent/)  |
