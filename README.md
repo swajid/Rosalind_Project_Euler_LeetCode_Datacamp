@@ -48,7 +48,7 @@
 | ~PERM~ | [Enumerating Gene Orders](https://rosalind.info/problems/perm/)                                     | [13034](https://rosalind.info/problems/perm/recent/) |
 | [~PRTM~](Rosalind/PRTM) | [Calculating Protein Mass](https://rosalind.info/problems/prtm/)                                    | [12885](https://rosalind.info/problems/prtm/recent/) |
 | FIB  | [Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)                             | [31498](https://rosalind.info/problems/fib/recent/)  |
-| GC   | [Computing GC Content](https://rosalind.info/problems/gc/)                                          | [30950](https://rosalind.info/problems/gc/recent/)   |
+| [~GC~](Rosalind/GC)   | [Computing GC Content](https://rosalind.info/problems/gc/)                                          | [30950](https://rosalind.info/problems/gc/recent/)   |
 | [~IPRB~](Rosalind/IPRB) | [Mendel's First Law](https://rosalind.info/problems/iprb/)                                          | [20588](https://rosalind.info/problems/iprb/recent/) |
 | [~SUBS~](Rosalind/SUBS) | [Finding a Motif in DNA](https://rosalind.info/problems/subs/)                                      | [27507](https://rosalind.info/problems/subs/recent/) |
 | MRNA | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)                                 | [9950](https://rosalind.info/problems/mrna/recent/)  |
@@ -56,7 +56,7 @@
 | SIGN | [Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)                         | [4650](https://rosalind.info/problems/sign/recent/)  |
 | CONS | [Consensus and Profile](https://rosalind.info/problems/cons/)                                       | [14828](https://rosalind.info/problems/cons/recent/) |
 | FIBD | [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)                                    | [12904](https://rosalind.info/problems/fibd/recent/) |
-| GRPH | [Overlap Graphs](https://rosalind.info/problems/grph/)                                              | [11986](https://rosalind.info/problems/grph/recent/) |
+| [~GRPH~](Rosalind/GRPH) | [Overlap Graphs](https://rosalind.info/problems/grph/)                                              | [11986](https://rosalind.info/problems/grph/recent/) |
 | IEV  | [Calculating Expected Offspring](https://rosalind.info/problems/iev/)                               | [11633](https://rosalind.info/problems/iev/recent/)  |
 | LCSM | [Finding a Shared Motif](https://rosalind.info/problems/lcsm/)                                      | [10552](https://rosalind.info/problems/lcsm/recent/) |
 | LIA  | [Independent Alleles](https://rosalind.info/problems/lia/)                                          | [6338](https://rosalind.info/problems/lia/recent/)   |
