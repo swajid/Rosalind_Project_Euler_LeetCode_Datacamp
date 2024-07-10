@@ -47,7 +47,7 @@
 | [~PROT~](Rosalind/PROT) | [Translating RNA into Protein](https://rosalind.info/problems/prot/)                                | [27395](https://rosalind.info/problems/prot/recent/) |
 | ~PERM~ | [Enumerating Gene Orders](https://rosalind.info/problems/perm/)                                     | [13034](https://rosalind.info/problems/perm/recent/) |
 | [~PRTM~](Rosalind/PRTM) | [Calculating Protein Mass](https://rosalind.info/problems/prtm/)                                    | [12885](https://rosalind.info/problems/prtm/recent/) |
-| FIB  | [Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)                             | [31498](https://rosalind.info/problems/fib/recent/)  |
+| [~FIB~](Rosalind/FIB)  | [Rabbits and Recurrence Relations](https://rosalind.info/problems/fib/)                             | [31498](https://rosalind.info/problems/fib/recent/)  |
 | [~GC~](Rosalind/GC)   | [Computing GC Content](https://rosalind.info/problems/gc/)                                          | [30950](https://rosalind.info/problems/gc/recent/)   |
 | [~IPRB~](Rosalind/IPRB) | [Mendel's First Law](https://rosalind.info/problems/iprb/)                                          | [20588](https://rosalind.info/problems/iprb/recent/) |
 | [~SUBS~](Rosalind/SUBS) | [Finding a Motif in DNA](https://rosalind.info/problems/subs/)                                      | [27507](https://rosalind.info/problems/subs/recent/) |
