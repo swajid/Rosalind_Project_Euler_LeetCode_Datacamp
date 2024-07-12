@@ -1,4 +1,4 @@
-# Solutions to Rosalind.info, LeetCode and Datacamp
+# Solutions to Rosalind.info, Project Euler, LeetCode and Datacamp
 
 <!-- For anyone who has to approve my pre-reqs, anywhere, see http://rosalind.info -->
 <details>
