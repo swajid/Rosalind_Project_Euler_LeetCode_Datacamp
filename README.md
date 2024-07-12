@@ -52,7 +52,7 @@
 | [~IPRB~](Rosalind/IPRB) | [Mendel's First Law](https://rosalind.info/problems/iprb/)                                          | [20588](https://rosalind.info/problems/iprb/recent/) |
 | [~SUBS~](Rosalind/SUBS) | [Finding a Motif in DNA](https://rosalind.info/problems/subs/)                                      | [27507](https://rosalind.info/problems/subs/recent/) |
 | MRNA | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)                                 | [9950](https://rosalind.info/problems/mrna/recent/)  |
-| LEXF | [Enumerating k-mers Lexicographically](https://rosalind.info/problems/lexf/)                        | [7262](https://rosalind.info/problems/lexf/recent/)  |
+| [~LEXF~](Rosalind/LEXF) | [Enumerating k-mers Lexicographically](https://rosalind.info/problems/lexf/)                        | [7262](https://rosalind.info/problems/lexf/recent/)  |
 | SIGN | [Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)                         | [4650](https://rosalind.info/problems/sign/recent/)  |
 | CONS | [Consensus and Profile](https://rosalind.info/problems/cons/)                                       | [14828](https://rosalind.info/problems/cons/recent/) |
 | FIBD | [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)                                    | [12904](https://rosalind.info/problems/fibd/recent/) |
