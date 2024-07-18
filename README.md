@@ -54,6 +54,7 @@
 | MRNA | [Inferring mRNA from Protein](https://rosalind.info/problems/mrna/)                                 | [9950](https://rosalind.info/problems/mrna/recent/)  |
 | [~LEXF~](Rosalind/LEXF) | [Enumerating k-mers Lexicographically](https://rosalind.info/problems/lexf/)                        | [7262](https://rosalind.info/problems/lexf/recent/)  |
 | [~FRMT~](Rosalind/FRMT) | [Data Formats](https://rosalind.info/problems/frmt/)                        | [7262](https://rosalind.info/problems/lexf/recent/)  |
+| [~TFSQ~](Rosalind/TFSQ) | [FASTQ Format Introduction](https://rosalind.info/problems/tfsq/)                        | [1874](https://rosalind.info/problems/lexf/recent/)  |
 | SIGN | [Enumerating Oriented Gene Orderings](https://rosalind.info/problems/sign/)                         | [4650](https://rosalind.info/problems/sign/recent/)  |
 | CONS | [Consensus and Profile](https://rosalind.info/problems/cons/)                                       | [14828](https://rosalind.info/problems/cons/recent/) |
 | FIBD | [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/)                                    | [12904](https://rosalind.info/problems/fibd/recent/) |
