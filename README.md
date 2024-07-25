@@ -80,7 +80,7 @@
 | KMER | [k-Mer Composition](https://rosalind.info/problems/kmer/)                                           | [3350](https://rosalind.info/problems/kmer/recent/)  |
 | KMP  | [Speeding Up Motif Finding](https://rosalind.info/problems/kmp/)                                    | [2646](https://rosalind.info/problems/kmp/recent/)   |
 | LCSQ | [Finding a Shared Spliced Motif](https://rosalind.info/problems/lcsq/)                              | [2417](https://rosalind.info/problems/lcsq/recent/)  |
-| LEXV | [Ordering Strings of Varying Length Lexicographically](https://rosalind.info/problems/lexv/)        | [3650](https://rosalind.info/problems/lexv/recent/)  |
+| [~LEXV~](Rosalind/LEXV) | [Ordering Strings of Varying Length Lexicographically](https://rosalind.info/problems/lexv/)        | [3650](https://rosalind.info/problems/lexv/recent/)  |
 | MMCH | [Maximum Matchings and RNA Secondary Structures](https://rosalind.info/problems/mmch/)              | [1740](https://rosalind.info/problems/mmch/recent/)  |
 | PDST | [Creating a Distance Matrix](https://rosalind.info/problems/pdst/)                                  | [2495](https://rosalind.info/problems/pdst/recent/)  |
 | REAR | [Reversal Distance](https://rosalind.info/problems/rear/)                                           | [1167](https://rosalind.info/problems/rear/recent/)  |
