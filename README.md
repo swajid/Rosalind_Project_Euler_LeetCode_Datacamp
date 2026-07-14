@@ -1,4 +1,4 @@
-# Solutions to Rosalind.info, Project Euler, LeetCode and Datacamp
+# Solutions to Rosalind.info, Project Euler, LeetCode and Datacamp -- Late-August-2026 and onward
 
 <!-- For anyone who has to approve my pre-reqs, anywhere, see http://rosalind.info -->
 <details>
